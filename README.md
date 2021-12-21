@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cian Doyle
 - 🎓 Currently finishing my final year of Computer Science at TUDublin
-- 👀 When I'm not busy with college, I like learning about blockchain and cryptography.
+- 👀 When I'm not busy with college, I like learning about blockchain, cryptography and game reverse engineering / game hacking.
 - 📫 To get in touch send me an email at ciandoyle64@gmail.com
 
 <!---
