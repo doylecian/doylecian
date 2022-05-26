@@ -1,6 +1,6 @@
-- 🎓 Studied Computer Science at TUDublin (2018 - 2022)
-- My programming specific topics of interest are: __reverse engineering (games)__, __blockchain__ and __cryptography__ 
-- To get in touch feel free to email me: ciandoyle64@gmail.com
+- 🎓 Studied Computer Science at TUDublin (2018 - 2022). Click [here](https://github.com/CianDoyleTUD/final-year-project) for my final year project 
+- 💭 My programming specific topics of interest are: __reverse engineering (games)__, __blockchain__ and __cryptography__ 
+- 📧 To get in touch feel free to email me: ciandoyle64@gmail.com
 
 Some projects I'm working on in my spare time
 
