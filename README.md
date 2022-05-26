@@ -2,7 +2,7 @@
 - 💭 My programming specific interests are: __reverse engineering (games)__, __blockchain__ and __cryptography__ 
 - 📧 To get in touch feel free to email me: ciandoyle64@gmail.com
 
-Some projects I'm working on in my spare time
+Some projects I'm currently working on in my spare time
 
 |Repo         |Description                     |Language(s)                  |
 |----------------|-------------------------------|-----------------------------|
