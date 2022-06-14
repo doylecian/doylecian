@@ -7,7 +7,6 @@ Some projects I'm currently working on in my spare time
 |Repo         |Description                     |Language(s)                  |
 |----------------|-------------------------------|-----------------------------|
 | [/ethereum-wallet-tracker](https://github.com/doylecian/ethereum-wallet-tracker) | A cli tool to carry out various queries about an ethereum wallet or token address | `python` |
-| [/signum-messaging-client](https://github.com/doylecian/ethereum-wallet-tracker) | An encrypted messaging client which leverages the decentralised network of [signum](https://www.signum.network/) to allow for secure messaging | `python` |
 | [/cpp-reverse-engineering](https://github.com/doylecian/cpp-reverse-engineering) | Repo containing C++ files related to reverse engineering games/software | `C++` |
 
 <!---
